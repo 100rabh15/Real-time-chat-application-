@@ -8,8 +8,6 @@ A real‑time chat app built with **Node.js**, **Express**, and **Socket.IO** fe
 - 👥 **User presence** with live user list
 - 👨‍👩‍👧 **Multiple chat rooms** (enter room name to create/join)
 
-## Demo Screenshot
-*(placeholder for your screenshots)*
 
 ## Folder Structure
 ```
